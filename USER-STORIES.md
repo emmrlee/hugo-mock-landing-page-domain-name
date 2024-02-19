@@ -4,9 +4,10 @@ This is a backlog of user stories for StyleThief, an idea for a chrome extension
 
 ## Illustrated Features
 
-1. As an educator, I want to securely watermark PDF documents with unique, student-specific details, so I can trace the source of any leaked document back to the individual who shared it.
-2. As a student, I want to receive a customized URL for accessing encrypted files, so I can securely download educational materials shared by my educators.
-3. As an educator, I want to integrate IntegriMark with email systems for automated mailing of document links, streamlining the distribution process.
+1. As a graphic designer, I want to easily extract the exact font styles that are used on various websites I admire, so I can incorporate the same fonts into my own designs without having to go through the process of guessing and checking the font family, sizing, or styling.
+2. As a front-end developer, I want to collect and export CSS snippets and stylesheets while browsing, so I can easily integrate them into my development workflow and prototypes.
+3. As a small business owner, I want to analyze colors from successful competitor websites in my industry, so I can redesign my website using similar colors to better align with market trends and customer preferences.
+
 
 ## Other Features
 
