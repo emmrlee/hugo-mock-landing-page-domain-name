@@ -1,22 +1,22 @@
 .home {
     --bd-light-purple: #C0BEDB;
-    --bd-purple: #56527F;
-    --bd-saturated-purple: #948BFF;
-    --bd-green: #658B51;
+    --bd-purple: #63569E;
+    --bd-saturated-purple: #8578FF;
+    --bd-green: #69994F;
     --bd-light-green: #A5BC9A;
-    --bd-saturated-green: #A7EC76;
+    --bd-saturated-green: #AAFF6D;
     --bd-warm-gray: #383734;
     --bd-light-purple-rgb: 192,190,219;
-    --bd-purple-rgb: 86,82,127;
-    --bd-saturated-purple-rgb: 148,139,255;
-    --bd-green-rgb: 186,203,178;
+    --bd-purple-rgb: 99,86,158;
+    --bd-saturated-purple-rgb: 133,120,255;
+    --bd-green-rgb: 105,153,79;
     --bd-light-green-rgb: 165,188,154;
-    --bd-saturated-green-rgb: 167,236,118;
+    --bd-saturated-green-rgb: 170,255,109;
     --bd-warm-gray-rgb: 56,55,52;
 
     .bd-masthead {
         padding: 3rem 0;
-        background-image: linear-gradient(180deg, rgba(var(--bd-light-purple-rgb), 0.5), rgba(var(--bs-body-bg-rgb), 1) 85%),radial-gradient(ellipse at top left, rgba(var(--bd-saturated-green-rgb), 1), transparent 90%),radial-gradient(ellipse at top right, rgba(var(--bd-saturated-purple-rgb), 1), transparent 90%),radial-gradient(ellipse at center right, rgba(var(--bd-purple-rgb), 0.8), transparent 90%),radial-gradient(ellipse at center left, rgba(var(--bd-light-green-rgb), 1), transparent 80%);
+        background-image: linear-gradient(180deg, rgba(var(--bs-body-bg-rgb), 0.3), rgba(var(--bs-body-bg-rgb), 1) 75%),radial-gradient(300px at center, rgba(var(--bs-body-bg-rgb), 1), transparent 100%),radial-gradient(ellipse at top left, rgba(var(--bd-saturated-green-rgb), 1), transparent 60%),radial-gradient(ellipse at top right, rgba(var(--bd-saturated-purple-rgb), 1), transparent 40%),radial-gradient(ellipse at center right, rgba(var(--bs-body-bg-rgb), 1), transparent 60%),radial-gradient(ellipse at center left, rgba(var(--bd-saturated-green-rgb), 1), transparent 20%);
     }
 
     .btn-bd-primary {
