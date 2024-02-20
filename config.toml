@@ -48,3 +48,8 @@ enableEmoji = true
   [[module.mounts]]
     source = "static"
     target = "static"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
