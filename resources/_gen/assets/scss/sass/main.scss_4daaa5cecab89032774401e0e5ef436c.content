@@ -9787,44 +9787,50 @@ a .feather-github:hover {
 }
 
 .home {
-  --bd-purple: #4c0bce;
-  --bd-violet: #712cf9;
-  --bd-accent: #ffe484;
-  --bd-violet-rgb: 112.520718,44.062154,249.437846;
-  --bd-accent-rgb: 255,228,132;
-  --bd-pink-rgb: 214,51,132;
+  --bd-light-purple: #C0BEDB;
+  --bd-purple: #56527F;
+  --bd-saturated-purple: #948BFF;
+  --bd-green: #658B51;
+  --bd-light-green: #A5BC9A;
+  --bd-saturated-green: #A7EC76;
+  --bd-warm-gray: #383734;
+  --bd-light-purple-rgb: 192,190,219;
+  --bd-purple-rgb: 86,82,127;
+  --bd-saturated-purple-rgb: 148,139,255;
+  --bd-green-rgb: 186,203,178;
+  --bd-light-green-rgb: 165,188,154;
+  --bd-saturated-green-rgb: 167,236,118;
+  --bd-warm-gray-rgb: 56,55,52;
 }
 
 .home .bd-masthead {
   padding: 3rem 0;
-  background-image: linear-gradient(180deg, rgba(var(--bs-body-bg-rgb), 0.01), rgba(var(--bs-body-bg-rgb), 1) 85%), radial-gradient(ellipse at top left, rgba(var(--bs-primary-rgb), 0.5), transparent 50%), radial-gradient(ellipse at top right, rgba(var(--bd-accent-rgb), 0.5), transparent 50%), radial-gradient(ellipse at center right, rgba(var(--bd-violet-rgb), 0.5), transparent 50%), radial-gradient(ellipse at center left, rgba(var(--bd-pink-rgb), 0.5), transparent 50%);
+  background-image: linear-gradient(180deg, rgba(var(--bd-light-purple-rgb), 0.5), rgba(var(--bs-body-bg-rgb), 1) 85%), radial-gradient(ellipse at top left, rgba(var(--bd-saturated-green-rgb), 1), transparent 90%), radial-gradient(ellipse at top right, rgba(var(--bd-saturated-purple-rgb), 1), transparent 90%), radial-gradient(ellipse at center right, rgba(var(--bd-purple-rgb), 0.8), transparent 90%), radial-gradient(ellipse at center left, rgba(var(--bd-light-green-rgb), 1), transparent 80%);
 }
 
 .home .btn-bd-primary {
   --bs-btn-font-weight: 600;
   --bs-btn-color: var(--bs-white);
-  --bs-btn-bg: var(--bd-violet);
-  --bs-btn-border-color: var(--bd-violet);
+  --bs-btn-bg: var(--bd-green);
+  --bs-btn-border-color: var(--bd-green);
   --bs-btn-border-radius: .5rem;
   --bs-btn-hover-color: var(--bs-white);
-  --bs-btn-hover-bg: #6528e0;
-  --bs-btn-hover-border-color: #6528e0;
-  --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+  --bs-btn-hover-bg: var(--bd-light-green);
+  --bs-btn-hover-border-color: var(--bd-light-green);
+  --bs-btn-focus-shadow-rgb: var(--bd-light-green-rgb);
   --bs-btn-active-color: var(--bs-btn-hover-color);
-  --bs-btn-active-bg: #5a23c8;
-  --bs-btn-active-border-color: #5a23c8;
+  --bs-btn-active-bg: var(--bd-light-green);
+  --bs-btn-active-border-color: var(--bd-light-green);
 }
 
 .navbar {
-  --bd-violet-rgb: 112.520718,44.062154,249.437846;
   padding: .75rem 0;
   background-color: transparent;
-  background-image: linear-gradient(to bottom, rgba(var(--bd-violet-rgb), 1), rgba(var(--bd-violet-rgb), 0.95));
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15), inset 0 -1px 0 rgba(0, 0, 0, 0.15);
+  background-image: linear-gradient(to bottom, rgba(var(--bd-warm-gray-rgb), 1), rgba(var(--bd-warm-gray-rgb), 1));
 }
 
 .text-violet {
-  color: #6528e0;
+  color: #605C90;
 }
 
 .list .card {
