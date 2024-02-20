@@ -14,7 +14,7 @@ body {
 }
 </style>
 
-![Image](new-feature-heading.svg)
+![Image](../heading-images/new-feature-heading.svg)
 
 # WIP: Figma Integration
 
