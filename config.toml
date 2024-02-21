@@ -1,6 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
-title = "StyleThief"
 author = "Emma Lee"
+baseURL = 'https://emmrlee.github.io/hugo-mock-landing-page/'
+copyright = "Emma Lee"
+title = "StyleThief"
 
 # Multilingual
 defaultContentLanguage = "en"
