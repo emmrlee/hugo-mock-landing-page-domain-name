@@ -21,4 +21,4 @@ body {
 > <b>🎉 Exciting Announcement! 🎉</b>
 We are thrilled to announce that StyleThief will soon be integratable with Figma, the leading design collaboration platform!
 
-With this integration, designers can seamlessly import collected design assets and styles directly from StyleThief into their Figma projects. Whether it's fonts, colors, or CSS snippets, bridging the gap between StyleThief and Figma empowers designers to streamline their workflows, enhance collaboration, and bring their creative visions to life with unparalleled efficiency.Say goodbye to tedious manual transfers and hello to a seamless design experience.
+With this integration, designers can seamlessly import collected design assets and styles directly from StyleThief into their Figma projects. Whether it's fonts, colors, or CSS snippets, bridging the gap between StyleThief and Figma empowers designers to streamline their workflows, enhance collaboration, and bring their creative visions to life with unparalleled efficiency. Say goodbye to tedious manual transfers and hello to a seamless design experience.
