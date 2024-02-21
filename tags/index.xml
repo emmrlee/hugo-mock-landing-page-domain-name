@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on StyleThief</title>
+    <link>https://emmrlee.github.io/hugo-mock-landing-page/tags/</link>
+    <description>Recent content in Tags on StyleThief</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Emma Lee</copyright>
+    <lastBuildDate>Tue, 20 Feb 2024 19:40:02 -0500</lastBuildDate>
+    <atom:link href="https://emmrlee.github.io/hugo-mock-landing-page/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post</title>
+      <link>https://emmrlee.github.io/hugo-mock-landing-page/tags/post/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://emmrlee.github.io/hugo-mock-landing-page/tags/post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Featured</title>
+      <link>https://emmrlee.github.io/hugo-mock-landing-page/tags/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://emmrlee.github.io/hugo-mock-landing-page/tags/featured/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>index</title>
+      <link>https://emmrlee.github.io/hugo-mock-landing-page/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://emmrlee.github.io/hugo-mock-landing-page/tags/index/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
