@@ -1,7 +1,7 @@
 # Testing GitHub Actions Auto Deployment on Mock Landing Page for StyleThief
 ## What is StyleThief?
 StyleThief is an idea for a Chrome extension that allows users to copy fonts, colors, and CSS snippets from websites directly from their browser.
-### Access the page [here](https://emmrlee.github.io/hugo-mock-landing-page-autodeployed/) :)
+### Access the page [here](https://emmrlee.github.io/hugo-mock-landing-page-domain-name/) :)
 
 ## How Did We Set Up Auto Deployment?
 Essentially, the YAML workflow will automatically build the Hugo website with the latest changes based on source code from `gh-pages`. Any pushes to main will trigger a deployment that reflects those changes.
@@ -24,4 +24,4 @@ It functions like so:
 - testing auto deployment for CIS 3500 HW2
 - time log found [here](https://docs.google.com/spreadsheets/d/1rwTnWFviAz19ZLrrE3WtiCTp54X6YdVcuBLMYkktKes/edit?usp=sharing)
 
-<i>Emma Lee | 3/6/2024</i>
+<i>Emma Lee | 3/7/2024</i>
