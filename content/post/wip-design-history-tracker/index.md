@@ -1,7 +1,7 @@
 ---
 title: "WIP: Design History Tracker"
 description: "Dive deep into design evolution with StyleThief's upcoming Design History Tracker!"
-date: 2024-03-06
+date: 2024-03-07
 draft: false
 tags: ["Post"]
 keywords: ["new feature", "new", "design history tracker", "history tracker"]
