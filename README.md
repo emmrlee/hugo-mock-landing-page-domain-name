@@ -1,7 +1,7 @@
 # Mock Landing Page for StyleThief
 ## What is StyleThief?
 StyleThief is an idea for a Chrome extension that allows users to copy fonts, colors, and CSS snippets from websites directly from their browser.
-### Access the page [here](https://emmrlee.github.io/hugo-mock-landing-page/) :)
+### Access the page [here](https://emmrlee.github.io/hugo-mock-landing-page-autodeployed/) :)
 
 ### Notes:
 - mock landing page implemented using Hugo
